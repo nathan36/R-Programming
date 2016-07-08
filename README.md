@@ -1,8 +1,8 @@
 Kaggle Data Competition
 ===================================
 
-This is an entry to [Kaggle](https://www.kaggle.com/c/titanic)'s
-Titanic: Machine Learning from Disaster competition.
+This is an entry to Kaggle's
+[Football Data Challenge Competition](https://inclass.kaggle.com/c/football-data-challenge)
 
 It's written for R 
 
